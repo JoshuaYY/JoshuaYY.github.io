@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://JoshuaYY.github.io/sitemap.xml
